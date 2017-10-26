@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
+#temprature{
+  cursor: pointer;
+  display: inline;
+}
+#icon {
+  transform: scale(2)
+}
+#link {
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+}
+.link {
+  font-size: 12px;
+}
